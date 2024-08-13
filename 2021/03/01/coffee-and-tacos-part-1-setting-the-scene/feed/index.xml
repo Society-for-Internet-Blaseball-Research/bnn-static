@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Coffee and Tacos, Part 1: Setting the Scene	</title>
+	<atom:link href="/2021/03/01/coffee-and-tacos-part-1-setting-the-scene/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/03/01/coffee-and-tacos-part-1-setting-the-scene/</link>
+	<description>HARD HITTING BLASEBALL NEWS</description>
+	<lastBuildDate>Wed, 03 Mar 2021 00:30:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+	<item>
+		<title>
+		By: Coffee and Tacos, Part 2: The Cup Begins &#8211; Blaseball News Network		</title>
+		<link>/2021/03/01/coffee-and-tacos-part-1-setting-the-scene/#comment-34</link>
+
+		<dc:creator><![CDATA[Coffee and Tacos, Part 2: The Cup Begins &#8211; Blaseball News Network]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2021 00:30:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1108#comment-34</guid>
+
+					<description><![CDATA[[&#8230;] This is the second installment in our three-part series recapping the LA Unlimited Tacos&#8217; exploits in the Coffee Cup, you can read Part 1 here. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] This is the second installment in our three-part series recapping the LA Unlimited Tacos&#8217; exploits in the Coffee Cup, you can read Part 1 here. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

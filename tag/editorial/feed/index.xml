@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>EDITORIAL &#8211; Blaseball News Network</title>
+	<atom:link href="/tag/editorial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>HARD HITTING BLASEBALL NEWS</description>
+	<lastBuildDate>Sat, 13 Feb 2021 03:07:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-BNN-Full-Logo-2.png?fit=32%2C32&#038;ssl=1</url>
+	<title>EDITORIAL &#8211; Blaseball News Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">189429579</site>	<item>
+		<title>Editorial: When Wins and Losses Became Meaningless</title>
+		<link>/2020/10/28/editorial-when-wins-and-losses-became-meaningless/</link>
+					<comments>/2020/10/28/editorial-when-wins-and-losses-became-meaningless/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Caster]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2020 12:00:00 +0000</pubDate>
+				<category><![CDATA[Editorial]]></category>
+		<category><![CDATA[EDITORIAL]]></category>
+		<guid isPermaLink="false">/?p=876</guid>
+
+					<description><![CDATA[<p>In Season 11 of Blaseball, a sort of reset occurred after the Shelled One&#8217;s defeat....</p>
+<p>The post <a rel="nofollow" href="/2020/10/28/editorial-when-wins-and-losses-became-meaningless/">Editorial: When Wins and Losses Became Meaningless</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In Season 11 of Blaseball, a sort of reset occurred after the Shelled One&#8217;s defeat. But, before its demise, the Sun collapsed and swallowed the Moon while the Sun 2 rose. This set the stage for the only weather to appear in Season 11.</p>
+
+
+
+<h2>sun 2</h2>
+
+
+
+<p>In a game when the Sun 2 is the active weather condition, a team that gets 10 runs is granted a bonus win, but gives up 10 runs in return. While this can be useful for high scoring teams, this can inadvertently give the actual game win to the opposing team. If the team that got the bonus cannot make up some of the 10 runs they lost, they may not be able to overcome the runs their opponents already had. This means that it is not unlikely for both teams to be granted a win in the case of the Sun 2 weather, boosting both teams in the Blaseball rankings.</p>
+
+
+
+<h2>black hole</h2>
+
+
+
+<p>The Black hole is the obvious inverse to Sun 2; if a team gets 10 runs in a game with the Black Hole weather, the opposing team loses a win and the Black Hole takes the 10 runs away. In the same vein, this causes the situation of needed to catch up with the opposing team&#8217;s runs in order to ensure you win. However the situation is much worse off when the runs cannot be made back, as at the end of the game it is a net 0 wins for both teams, functionally making it as though both teams lose.</p>
+
+
+
+<h2>skill and luck</h2>
+
+
+
+<p>While some teams are more likely to get the bonuses of these weather conditions due to their own skill, luck plays a huge role in this case. If are against a stronger team more often in Black Hole weather, you are much more likely to drop in the rankings due to netting 0 or negative wins off of said games, while if you face stronger teams in Sun 2 weather you can still net 0 wins, but you are more likely to land a win against them than in normal circumstances. On the flip side, if you are a stronger team but you happen to be scoring 10+ on Black Hole weather, this could ultimately have you drop in the rankings as you are more likely to not gain a win off that game than in normal circumstances. While it would require more extensive stlatistical research to find exactly how this skewed Season 11 and who was most skewed, it is clear that Sun 2 and Black Hole completely upended how season 11 could have turned out.</p>
+<p>The post <a rel="nofollow" href="/2020/10/28/editorial-when-wins-and-losses-became-meaningless/">Editorial: When Wins and Losses Became Meaningless</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/10/28/editorial-when-wins-and-losses-became-meaningless/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">876</post-id>	</item>
+	</channel>
+</rss>

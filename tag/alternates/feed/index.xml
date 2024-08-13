@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Alternates &#8211; Blaseball News Network</title>
+	<atom:link href="/tag/alternates/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>HARD HITTING BLASEBALL NEWS</description>
+	<lastBuildDate>Fri, 15 Jul 2022 16:42:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/02/cropped-BNN-Full-Logo-2.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Alternates &#8211; Blaseball News Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">189429579</site>	<item>
+		<title>ALTERNATES: INFINITE (INFINITE) CITIES</title>
+		<link>/2022/07/15/alternates-infinite-infinite-cities/</link>
+					<comments>/2022/07/15/alternates-infinite-infinite-cities/#respond</comments>
+		
+		<dc:creator><![CDATA[Blaseball News Network]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 16:00:00 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Editorial]]></category>
+		<category><![CDATA[Alternates]]></category>
+		<guid isPermaLink="false">/?p=2675</guid>
+
+					<description><![CDATA[<p>(Compiled and Written by @Biffifh (Twitter)/ @Gizmo aka Ifhbiff (Discord), with input from AgentMoon, Beiju,...</p>
+<p>The post <a rel="nofollow" href="/2022/07/15/alternates-infinite-infinite-cities/">ALTERNATES: INFINITE (INFINITE) CITIES</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>(Compiled and Written by <a href="https://twitter.com/Biffifh">@Biffifh</a> (Twitter)/ @Gizmo aka Ifhbiff (Discord), with input from AgentMoon, Beiju, ThePanda, and others)</em></p>
+
+
+
+<p><em>**</em><strong><em>NOTES FROM THE AUTHOR</em></strong><em>:&nbsp;Season 3’s Los Angeles Tacos had two of the most defining moments in Blaseball happen to them: The Grand Unslam and the Wyatt Masoning. Thanks to </em><strong><em><a href="https://www.notion.so/Out-of-Kayfabe-how-did-the-Wyatt-Masoning-and-the-Unslam-happen-5bc266cdccbf4aec9c6e845c735f4e1a">Inside A Baseball</a></em></strong><em>, we have a pretty good understanding of what was supposed to happen. Instead, we got the <a href="https://www.youtube.com/watch?v=CZo3Mi6dmB8">Wyatt Masoning</a>, and Infinite realities opened over Los Angeles.&nbsp; </em></p>
+
+
+
+<p><em>But … infinity works both ways, right?&nbsp; If all the Los Angelii came to our reality, then shouldn’t there be ALTERNATE realities where this happened to the other 19 original teams?</em></p>
+
+
+
+<p><em>Wyatt was targeted because he was the “least popular” player on the team, but we have no way of going back and defining the “least popular” player for each team. Wyatt wasn’t statistically the “worst batter” on his team, but he was close enough that we can extrapolate that for this exercise.&nbsp; Therefore, we found the “worst player” for each team (defined as the lowest batting/pitching rating, whichever was appropriate for the player’s role), made that player NaN, and applied the 13 changes to names for the rest of the team in order.&nbsp; </em></p>
+
+
+
+<p class="has-medium-font-size"><em><strong>The rules, based on what happened to the Tacos:</strong></em></p>
+
+
+
+<p><em>1.</em><em> </em><em>Original First Name, New Surname</em></p>
+
+
+
+<p><em>2. Original First Name, New Surname</em></p>
+
+
+
+<p><em>3.</em><em> </em><em>Original First Name, New Surname</em></p>
+
+
+
+<p><em>4.</em><em> </em><em>New First Name, Original Surname</em></p>
+
+
+
+<p><em>5.</em><em> </em><em>Name Unchanged</em></p>
+
+
+
+<p><em>6.</em><em> </em><em>Name Unchanged</em></p>
+
+
+
+<p><em>7.</em><em> </em><em>New First Name, Original Surname</em></p>
+
+
+
+<p><em>8.</em><em> </em><em>Original First Name, New Surname</em></p>
+
+
+
+<p><em>9.</em><em> </em><em>New First Name, Original Surname</em></p>
+
+
+
+<p><em>10.</em><em> </em><em>The 2nd to last consonant in the Original Surname changed to the last consonant in the Original Surname.</em></p>
+
+
+
+<p><em>11.</em><em> </em><em>New First Name, plus the 1st vowel and last vowel in the Original Surname flipped.</em></p>
+
+
+
+<p><em>12.</em><em> </em><em>Name Unchanged.</em></p>
+
+
+
+<p><em>13.</em><em> </em><em>New First Name, Original Surname</em></p>
+
+
+
+<p><em>Some rules &amp; names didn’t play well together; in those cases, I went for whatever I found funniest.&nbsp; I also did this manually, much like the original Unmasoning … so if you find a mistake, I’m going to claim it was done on purpose for flavor.&nbsp;</em></p>
+
+
+
+<p><em>This is a fun look at what could have been different.&nbsp; This… is </em><strong><em>nineteen </em></strong><em>ALTERNATE histories:</em></p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Breath Mints</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/qeX913I6xF62tbOPRgH8ABIMmHa9rQYk_YFpZsJFL3RawOaHRWwK2v6N-BEOzgeCZw6dtWEvYqgLowFBW5dgLLNlHrn7tjc-t9DfTVpxnhXgYlBEQ36wpKsIcTy01yL5URIieUYZa0XQQ737-_SVHg" alt=""/></figure></div>
+
+
+
+<p>It’s truly amazing that this is the first of <strong>two </strong>Hall of Famers who were the worst batter on their team at the time.&nbsp; It makes sense to me that the most meme-tastic team in blaseball becomes all about the Internet.&nbsp; We already have the first rule break here: with only one vowel, Winnie’s surname instead changes one vowel and I think it still serves her well.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Crabs</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh6.googleusercontent.com/ecgiXmVfz2gNs5MftvK3y8Bai70_amoF4lo50zq5K_7lPasW6xCNjge7kfjrXqJ42-YmR4bu9-WyI3N-mp1FZStq6QFHPeYh7--kuhEqTfGDUyGWneJsU6812IUFQB1bqN-Qo84cF4CKpJ9sH-66rg" alt=""/></figure></div>
+
+
+
+<p><s>Tillman</s> Oliver would probably use this as an excuse to try to get out of all their debts.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Dale</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/ZG_EgQJq2voWDtHaw-5cfVGOCK1tIvDgEiVFbVhlU5EanmE4NG431xZYqfiyqPbmfe4fUD2rxZywV696hjkMYLWbiTPsSze0Z0PNGbkgR1tTDhmylgV5dYomwrmzc3VfY_iSa_T3GcueeE9X0ZDxsg" alt=""/></figure></div>
+
+
+
+<p>Boy, there’s a lot to unpack here in the Miamiis.&nbsp; The “Bong Rip” in this universe gives us a Susqaatch and jumps the number of Peanuts in the league from three to seven.&nbsp; Would that give The Shelled One twice as much power?&nbsp; Would the Hall Stars lose?&nbsp; We may want to revisit this particular ALTERNATE in more depth.&nbsp; But for now … <strong>¡BONG!</strong></p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Fartfighters</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/pbESCbX1KknV_JXUm_fNDS2d-RdgDJivQGvaPqk1pJdiUjFSEISBPyAAcudsTuXog4LyIXoM8iZr-7AswiVN4xJK9hm1qqpRiQfYaRro0V7uzIyhLgRbq7DQTwYK38_9d_r7TerSwVeh2UKFjejt4Q" alt=""/></figure></div>
+
+
+
+<p>If there is one greatest regret from this project, it’s that we didn’t end up with Baby Butt.&nbsp; But you can’t tell me this team wouldn’t take on a very different personality with these names.&nbsp; Also, “Gaerru” may be the 2nd most cursed new name to come out of all this (you’ll know #1 when you see it)</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Flowers</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/cc66phP1YA_daLx40OpJrQ_Hw94--QT5FxwgGOfiFZKKAQuU-U66Lf-20FLWvBW5-_9zCWAib4f39-0wO3u8PXajw9ki1ZwXtejMJg8j4qVCIlA1YBRv3BxhJGdFBu40upr8KaQDKxKu1ZfH-MnKIw" alt=""/></figure></div>
+
+
+
+<p>In just about any universe, Jacob Haynes is just a guy, ya know?&nbsp; On the other hand, ten thousand Dunkin’ jokes are ruined.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Fridays</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/nboUGYIhIKwTUkMIh2_-riLrdmW0zdDMJHFBiSnYExDJ-S2npIPQ1Q-ZhDf7U9KtN9fwv2C8SGySIEmGuaWwsEMcBohXMj-yHzMUCFeX50AVIj_YRsBrjRNdvsj5DlTVyUkf7MgIqA0VuAlScI_obA" alt=""/></figure></div>
+
+
+
+<p>Another team with a lot going on here are the Fridays.&nbsp; I think it’s nice that York and Nagomi both have the same surname now.&nbsp; Thomas England, of all names, goes unchanged.&nbsp; I don’t want to know what “Juice Heat” is.&nbsp; And, of course … my #1 pick for most cursed new name. “Mac Be Sassy?”. “Mc Bees Ace?” “ MC B. Sasay?” Currently accepting all artist interpretations of this Alternate Evelton.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Garages</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/0ZLkDiRH88GElc7gHYJ84ewYi1KjDHcTm_w2mybGf9j7EODRn49qMyO-EZvXyhHiAs5hoHNZuXVXD_SvtrmNE9nBmgihcmDGWgT7iHBRb_QuraZ9OwfsMKyrNEQTBpQk9CE_FQABdJPh-bdBKyEulg" alt=""/></figure></div>
+
+
+
+<p>Luis Townsend (Ruins Titles of Previously Existing Songs).</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Jazz Hands</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh6.googleusercontent.com/g1g9yk9L0OGs7nCfMy3kRxckXySCIEMY_qcUGfLSfe1_JyHZsqManmC_spoArHhTN4P3fFwel6cPT4u9GjIKZl-NBGyklrNBUn33P42exII-O7kAuexo15Mb3Rdx0HDqf-fzYJx7T4FrRWVXUe7jlw" alt=""/></figure></div>
+
+
+
+<p>The first of two teams that seem to be more Capitalistic in their universe.&nbsp; “Sky” was one of the toughest decisions for me to change … I just figured there’s probably good skiing in Breckenridge.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Lovers</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/iUqbMAmIT9zK0WPeKNvO51uqN8ilc5SkPGWj_QKh2VL71q4ETpyfr9d0f1pwhAwbVVRqD6BRkRdCHU73v-HIbTO47_3e6OoUVmBMaY0NZAtn7BeBcOzMbLspc2njvVxgmTNS-RaD1jpLrIhMIe2qJQ" alt=""/></figure></div>
+
+
+
+<p>Meh.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Magic</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/OkSZxF-N1Gz5ReTBa7vdIYscdLHFMmHdcjT0n2j3Wm4w0pZy6d0QZ_STb-gc0MjdwWq5HA7jUPODLjHNKAZAgyePDOPRcYrIZ5uDtvTjBRkHOqJ2I4o_v5b6Njo9WOl0AKpJ1_xET7EIOWbCQwdx1Q" alt=""/></figure></div>
+
+
+
+<p>They can’t all be brilliant and hysterical, I guess.&nbsp; Retledgu is quite the name.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Millennials</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/u6pdaUjCDZOhJlIZJNGFttYdjOHx1QD5ox85_M8NaD7CVqMBFkg-bIufhYVc8rjo2eWxtOY-S__O6UE6TytTX8V2Vx7rn5t5DIE6QkrU6DE0iBm7Dq83di1LNW55RYLa6yQxue3QMY-zeXBQy1H6lA" alt=""/></figure></div>
+
+
+
+<p>It’s not until the Winning Lottery Ticket here that one notices how many nouveau riche sounding first names the Mills had at the time.&nbsp; Mclaughlin? Conrad?&nbsp; Winnie?&nbsp; This entire team transforms, possible more than any other, in this exercise.&nbsp; Trust me, there’s a part of <s>Staten </s>Battin’ Island where they all have Bentleys in the drive.&nbsp; And you just <em>know</em> on this team, it’s pronounced “gar-BAJJ”.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Morse Talkers</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh6.googleusercontent.com/vn9KZ3nWSum1WlJTgE77QgUVStI4nlsbTm9sAzdvXQUIf3f15I7QD1oJYVLrN_zQvpIpuw-zaW6EgZyBhluIgunMzZCerlAuwG4O-djZLZ4pVvnX4YVAWpYW914crYHiLc-qyN9f0rsafGy_s8XUyQ" alt=""/></figure></div>
+
+
+
+<p>It feels like every ALTERNATE universe I visit, I’m somehow messing with PDP (or as she’s known to her fans here … E*)&nbsp; And can you imagine how annoying it must be in this team’s chat?&nbsp; Dash Dash Dash, Dash Dash, Dash Dash Dot!</p>
+
+
+
+<p>*(I’m just gonna leave this joke here, unexplained.&nbsp; If you figure it out, good job.)</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Pies</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/uBcLxW3qdWn2qbeTDs55jCVZHJjbC6lWrS3rZzPCXD93_RkaoaLIeYekVip5T5xWJpPot_UtlMYQjY-fx-HEUCH_iFng4Ql9q12zwoiZxVS-aW7cEfNP0o0wNsC47HcC1QvnYfQCvEDwbYFelICREg" alt=""/></figure></div>
+
+
+
+<p>There’s an ECW/Dudley Boyz/pro wrestling joke here somewhere (especially since it’s Philly), but I can’t quite put my finger on it. “KEVINS! GET THE TABLES?”&nbsp; Feel free to send me your better jokes via Discord or Twitter.&nbsp;</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Shoe T&#8217;ieves</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/qglBe_vMZEDWlmI5sV1JNZx_r9Dz97D2gbSRMZNtxiM1kZkt0rg_VPiGCzcn2YmwDpOnXX_rywHfqY1_-k2SKvBqMTZa-nqU1P_bMzFV1Zg003df_rYtXOkuHF-ueC0TUm7cxvBzEDIEQBZ_MKhJ3Q" alt=""/></figure></div>
+
+
+
+<p>A’postrophes are ev’ry’wh’ere in da In’finite C’har’lottes.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Approximately Unlimited sPis</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/u6LIpPYM-JCgxAtx5STbt0JcZP5m3mhJLPcFRSY_jAB1yroqaRRUKW3iC98L3ADbKgm10yhsEV7TEjgQW_m7dTdqOyRH6zVTyxVzX6nxwBu0zokdsLoy_41AEXoTpDLwHT9B3NL98C-C3N6ByLMmwA" alt=""/></figure></div>
+
+
+
+<p>I may have leaned too far into the joke on this one.&nbsp; See how long it takes until you find my extra intentional “typo”.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Steaks</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Zs7v7FQTJOLzFUf7VXTVeGCkuaEsoV_jQbGJNCRYB32w-L94c9k57_c8-TqucV1oNz1VY0vAYHALhcb48LpOsYpWgbcKRSPAo2MX_BdWJN7jQepS2v4J3Wdl2UM7cef25uCNGn-YSa3ozoMvTthxmw" alt=""/></figure></div>
+
+
+
+<p>The other future Hall of Famer contributes their name to the Haley’s Cometing.&nbsp; At least Sebastian keeps to keep his famous surname in this universe (spoiler: his sister doesn’t fare as well)</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Sunbeams</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/L-z7ZUrrSNUmXXlfDVjBA8Q1uMtrcb96GTiH2hB8QNG9rje-NwNeUwUDLGnyLbasWgEqvD40cmL20ppqxkSkDdrKtjC0f7veWWWuu-EMVv_etbLqUo0X--uWQPV1NEa8RjbbFMhpwp2ib8r2Db714A" alt=""/></figure></div>
+
+
+
+<p>Of all the “worst players” identified for this project, Lars Taylor was the worst of the worst.&nbsp; “No Stars Lars” is probably the closest player to our NaN, in terms of how they were portrayed and loved despite their limitations.</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Tigers</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/EiriFWIiMKvMVAGmwTX3BeknQQpke1To_7IBKWH-MaQ2YH0oZ10QR3c5re7Ea23lR6XP63jWQSQ4OvjZWX1Z2_-PzDBVNqzyowBc_3j2VLKqBTZ2-NTAaD1bpf9-XnX1FtRyiRWMaN6SzR1ZQuO6bw" alt=""/></figure></div>
+
+
+
+<p>The other universe where it’s still a Masoning … a YAZMIN Masoning.&nbsp; I was waiting for this situation to happen, and it wasn’t until nearly the end that we got there, but … long before an Evil Twin, we would have had our first duplicate name scenario as Paula Turnip becomes Paula Mason.&nbsp; But Paula Mason also already existed at this time.&nbsp; Maes-two?&nbsp; I’m not sure.&nbsp; And once again, a Peanut avoids consequences.</p>
+
+
+
+<p>And finally …</p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong>The Unlimited Wild Wings</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/gvMqfART_VGYjir_ArZojJ45YfCPqW1buVaqozu1FDLtbnt8s_PpzWKEbJHsLdGHeVfwX4sk7nGACa5AUQ3nnSUHOEEuYldAzcR54WPeIjBSMtLWlSse2f0Po5sv4WY3ddIti4Tzl1e5AI2a6Zl6oQ" alt=""/></figure></div>
+
+
+
+<p>Another big regret in this project is that we lose Cell Barajas to a much simpler variation.&nbsp; But at least we end our tour through ALTERNATE universes on a delicious note?&nbsp; Mmmmm … Unlimited Wild Wings.</p>
+
+
+
+<p><em>Suggestions?&nbsp; Comments?&nbsp; Thoughts about better jokes?&nbsp; Or do you have a completely different idea for an ALTERNATE universe that you think would be worth exploring together?&nbsp; Please, bring the ideas to us, either via my Twitter or the SIBR or BNN Discords.&nbsp; I find the best parts of these articles are the discussions with others about how it can go.&nbsp; Flex your creative muscle and give it a try!&nbsp; You can’t do any worse than “Baby Butt” jokes.</em></p>
+<p>The post <a rel="nofollow" href="/2022/07/15/alternates-infinite-infinite-cities/">ALTERNATES: INFINITE (INFINITE) CITIES</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/07/15/alternates-infinite-infinite-cities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2675</post-id>	</item>
+		<item>
+		<title>ALTERNATES: LOOK BACK (IN VIOLENCE)</title>
+		<link>/2022/06/09/alternates-look-back-in-violence/</link>
+					<comments>/2022/06/09/alternates-look-back-in-violence/#respond</comments>
+		
+		<dc:creator><![CDATA[Blaseball News Network]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 16:00:00 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Editorial]]></category>
+		<category><![CDATA[Hades Tigers]]></category>
+		<category><![CDATA[Alternates]]></category>
+		<guid isPermaLink="false">/?p=2599</guid>
+
+					<description><![CDATA[<p>Compiled and written by @Biffifh, with input from Dargo, Paranundrox and others **NOTES FROM THE...</p>
+<p>The post <a rel="nofollow" href="/2022/06/09/alternates-look-back-in-violence/">ALTERNATES: LOOK BACK (IN VIOLENCE)</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>Compiled and written by <a href="https://twitter.com/Biffifh">@Biffifh</a>, with input from Dargo, Paranundrox and others</em></p>
+
+
+
+<p><em>**</em><strong><em>NOTES FROM THE AUTHOR</em></strong><em>: During Season 6, the community as a whole was deciding what team would basically “be allowed” to win the blessing LOTTERY PICK, knowing that we would all work together to place an incinerated player in the 14th spot of the Idol board.  The final decision came down to Jaylen Hotdogfingers, the first incinerated player and former ace pitcher for the Seattle Garages, vs Landry Violence, the fanon-declared captain of the Hades Tigers who was famously incinerated towards the end of the postseason of their first Series victory in Season 3. The Tigers acquiesced: The Garages would indeed win the Blessing with 58% of the votes and one of the biggest, far reaching storylines in blaseball would happen.</em></p>
+
+
+
+<p><em>Last year, a conversation was sparked in SIBR’s Discord chat about what would have happened if Landry was chosen instead.&nbsp; This article aims to take that discussion, combined with some loose “What If” statistical research, a bit of fanon and our tendencies to see patterns, and rewrite history.&nbsp; This is a fun look at what could have been different.&nbsp; This … is an ALTERNATE history.</em></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Ilr3CkjHKN2bslcsEEnliP1sWAlwvxfBPZoztsCBSE095hkTd1x8g73z3aRCNJfI96BNRMNQEJu1jBf9xznI-Z-oTeam9Xuji-FWf55bkchP9-2Qv9coTNb5--XM6_tJ1Y59sSVX1Y4hyyMHNw" alt=""/></figure></div>
+
+
+
+<p>I mean, it made sense that it came down to those two players.  The Blaseball community was still pretty tight-knit in Season 6, and we were usually able to come to a consensus, even across teams.  Jaylen was an amazing pitcher, and thematically, the first player Incinerated could be the first player Necromanced.  But the fans from Hades just made a more compelling case; what happens when the originator of “REST IN VIOLENCE” is no longer at rest?  Aren’t the Tigers supposed to “Never Look Back”?  Our Alternative universe begins to diverge.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://lh3.googleusercontent.com/naO_vp1zPojjGEjP3ovJOnDHsG9zELnuBNY9ZvgU-5pSdwgL-V0v-OXlQqeiXa39jYfo_98J0hXLuxsa50ElgfykARiVQMRPy89gFqgPSRDtRtYwaMEUJKgBTXrt3jUG4hj95lIUdqmD7mnJQQ" alt="" width="730" height="127"/><figcaption>The moment of S3D110, the 2nd game of the finals, in which the Tigers lost their beloved captain.</figcaption></figure></div>
+
+
+
+<p>We would all work together, thanks to some shenanigans I won’t re-hash here, to put Landry Violence in the 14th spot of the Idol board.&nbsp; The Tigers’ considerable voting power would do their best to win <strong>Lottery Pick</strong>.&nbsp; And as kind of a “consolation prize”, the league agreed to let the Garages try to win the blessing <strong>Who?</strong>, and continue their story arc of their well known pitcher… Mike Townsend.&nbsp;&nbsp;</p>
+
+
+
+<p>Wait, WHAT?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/NiRNl6JVeuFiuL9DsrC3PGP8KoBpJ5DnVAFbrpBiHh-sUdQNOZN0uIHUc1ADhM0rekVZDgZ9t8gyI5riJwDuRJQmx7cobDG-RrMThNFX-pObXEnEfqxG5A93akc6QFiPCKMZARM40Oy8U1UHHw" alt=""/><figcaption><em>I mean, Mike had to be near the bottom, anyway, right?</em></figcaption></figure></div>
+
+
+
+<p>It’s not remembered nearly as much as Lottery Pick, but this was also a Blessing option during Season 6.   What may be even less remembered is that the Tigers were actually the highest bidder.  And since, in this Alternate universe, we are manipulating the Idol board, it shouldn’t be too hard to make sure that nobody idolizes Mike (not that many people should be anyway).  Therefore, the Garages’ hope is that they can “steal” him from themselves and maximize his stats.  They’d get their ace pitcher, but they instead go for the comedy value of it being the player they write songs making fun of.  Every team asks a few fans to Idolize one of their players, and it should work, easy-peasy. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/e88-ZzcTYG5BpJDPT07Rxvphw-3Z8sWWMtyPkHlfjvMslbtue2bFezF2Y4bfVO17OlpCz8-e-A3t9rZFHYpcU4MuV_OVbntA18dNDvohW0932oyO2wJzJXJaxJtUkGdxZnr24_lEXogwt3nxNg" alt=""/><figcaption><em>Sorry, Thieves … in our Alternate universe, you don’t get Howell *and* you’re stuck with Joe.</em></figcaption></figure></div>
+
+
+
+<p>Now we fast-forward our Alternate Universe to Sunday.  Landry is #14, the Tigers have a ton of votes in Lottery Pick, the Garages have a ton of votes in Who?, and the community’s plan goes off without a hitch.  So… what else happens?</p>
+
+
+
+<p>Well, for one thing, not only is Mike Townsend now a superstar, they also have no reason to “know what to do” and retreat to the Shadows.&nbsp; This happened because they were the lowest starred pitcher, where a pitcher was going to now reside, and we don’t have imbalanced rosters in Season 6.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh5.googleusercontent.com/HKUflVihEUH8qLV-KEm-KDOj7kiNUVqflVEKZnyndzHh_uj5lVHX_3B2lrQ1Y80zuGruGgBqOxSREDsasWHVBrltI3j0kC1fLl1-fpZOV_fW7w-h9srbg4t2XfowMjJvBlA9O-0dPnMIfN05vQ" alt=""/><figcaption><em>Mike’s gonna earn his respect in a different way.</em></figcaption></figure></div>
+
+
+
+<p>OK, so … Landry’s a hitter.&nbsp; Coming to the Tigers’ lineup.&nbsp; Who was the lowest starred batter in the Tigers lineup as of the Season 6 Elections?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/0j7jYwYVBrXOWnPchXzdfi9CzNj8gCNOAie88NxVx9zaDGXXRWaSwyQyTmlpSG5k3NgpAbt18Oa0z_9TI9Q3jKgppJWBT2ISkXtWwJgEuBfV7Eknf64woqKRw0qrJwLWVqOSt-FNOUpv5HGheQ" alt=""/><figcaption><em>This Alternate universe is about to leave a best friend-shaped hole in our hearts.</em></figcaption></figure></div>
+
+
+
+<p>Oh.&nbsp; Oh no.&nbsp;&nbsp;</p>
+
+
+
+<p>If you looked at just those names, knowing what we know today in our universe, you’d assume it’d be Spears Taylor, the player who was Feedback swapped with Jessica Taylor.  But nope; it’s only Season 6 and we don’t know of many ways to manipulate the Shadows yet, and it’s universally beloved best friend Richmond Harrison that goes to where the map shows.  </p>
+
+
+
+<p>We flip the calendar one day to Monday and now… the big one.&nbsp; For many seasons, in our universe, we never knew what would happen if a batter had a Debt instead of a pitcher.&nbsp; We all watched in horror on Season 7 Day 5 when Jaylen threw Blaseball’s first Hit By Pitch.&nbsp;&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh6.googleusercontent.com/RWkxDNdy4VZzJUD4rpBreGpWAKswG-jNek3Syf5h_eLGzR2mwXIXExvC3APRhlbh2aAFvVKF6wtWoOsMZN2i0dAQdDLZDDJTV9uGkBmRDdn6_JBPmdB91NWXn1FuHINt2F5OkLgoPAFkYCoq9Q" alt=""/><figcaption><em>The Unstable chain began here in our universe.</em></figcaption></figure></div>
+
+
+
+<p>I’m going to go ahead and really stretch my powers as the author here, and give you this Alternate universe’s Debt. Thematically, Landry was an “angrier” player than Jaylen ever was, and would probably be much less apologetic about potentially wreaking havoc. I bet Landry wouldn&#8217;t even have to get hit by a pitch to start a fight.&nbsp; It happens all the time in real life non-L baseball when a batter decides a pitch was too close, right?&nbsp; So in our Alternate universe, on that same Day 5, newly resurrected and carrying a Debt, Landry Violence… <strong>charges the mound</strong>.&nbsp; </p>
+
+
+
+<p>There is violence, and the Umps, who are clearly afraid of Landry, have no choice but to “Warn” the pitcher.  Throw another close pitch, and you’re “Ejected.” in flames.  And what’s worse, that anger the pitcher had been stewing inside them, anger since they had a fight with Landry, is now chained to that batter.  The Chain of Violence is spreading throughout the league.  The flames are both being stoked and claiming players left and right, and the term “REST IN VIOLENCE” means something very different.</p>
+
+
+
+<p>So how does this play out over the Season?  In our Season 7, Jaylen had 29 HBPs; but overall 12 players were Incinerated from the various Unstable chains.  Rather than follow all of the chains individually, we’re going to do a loose data analogy here: we take the days that Jaylen had a HBP and instead see who the Tigers were playing on those days (at least in the regular season—  I’ll tackle the postseason in a minute.)  Therefore, here are the pitchers that Landry charges in our Alternate universe:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh4.googleusercontent.com/y0z-XkkQ94paPR34ZTHxQwQO9uhI-VFVninVARegBrr_-Lyb0--qtpjnfttGHFPEozd9wFjVk6QuM8OkQWDN6c_9M6Okji3VFHeg3aPMqCY0niXh9dp3uSq6hgprethynCXtrfUUFSZ6i9Y5hw" alt=""/><figcaption><em>Author’s Note: This is from the SIBR Datablase, where Days are “zero-indexed”.  So these are actually days ending in 5 or 0, if you are double checking my work.</em></figcaption></figure></div>
+
+
+
+<p>There are ten distinct names on that list… and WOW, are there some intriguing names there.  It’s generally considered that it was Moist Talkers’ fans who first started the research into Necromancy in the first place.  They very much pay for their hubris in this Alternate universe by losing one of the all-time greats in PolkaDot Patterson.  The Leach-Off is sadly cut short, as they both go away midseason.  And one more key thing here… in this Alternate universe, that’s not Jaylen Hotdogfingers pitching in that slot, is it?</p>
+
+
+
+<p>It’s newly Maximized superstar Mike Townsend.  Mike’s respect and tragedy comes to them.  They started off this Season by pitching 5 amazing games, but clearly they&#8217;re going to succumb to Landry’s Violence on Day 30.  Mike Townsend (was a SuperNova).</p>
+
+
+
+<p>And then just totally for fun, and without any data based reasoning whatsoever, I’ll also throw two names out there that may have filled in those other Incineration slots, players who were victims of the Unstable Chain:</p>
+
+
+
+<ul><li>Sebastian Telephone: Because Seb has to die in every universe, every time.</li><li>Workman Gloom:&nbsp; Hubris, Moist Talkers, Hubris.&nbsp; And who am I to remove Workman’s amazing “Home Run mid Incineration” story?&nbsp; Also don’t worry… they may be a Fire-Eating, Home Run smashing hero of Day X in this universe (if that’s how Day X works in this Alternate universe.&nbsp; That’s called foreshadowing.).</li></ul>
+
+
+
+<p>Let’s extrapolate even further.&nbsp; In our universe, the Season 7 Garages held on and took the last slot in the playoffs.&nbsp; The team they edged to get there?&nbsp; It also happens to be the team they played against the most in Season 7.&nbsp; I’ll give you one guess.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://lh3.googleusercontent.com/Ytq3v8TDm8a16rdZFhKLp8JF8h1C9ACyjO5VM4m6hgN7B64yRqbXxOKdZHdOBbFDh1H_itf99N28nGcbldBGP2ky5e8AO1hGoQyCmlVvSEL0oGP2ooarOfagHCVm7G7HhlcLX-J6ybPm4z_90g" alt=""/><figcaption><em>Remember when the site colors were this bad?&nbsp; That’s 55-44 for Seattle, 51-48 for Hades</em></figcaption></figure></div>
+
+
+
+<p>So come on… a Garages team without Jaylen, and in this universe, most of the season without Mike, versus a Tigers team that is riding the Violence and has Landry leading off?&nbsp; I feel confident in saying that in this Alternate universe, the Tigers win at least 4 more games and slide into that playoff slot.&nbsp; And here is where I crush the history and identity of another team along the way.&nbsp;&nbsp;</p>
+
+
+
+<p>In our universe, the Garages lost in that postseason to the biggest Cinderella story in blaseball history: The Mexico City Wild Wings.&nbsp; As a matter of fact, Jaylen hit FIVE Wings with pitches on Day 105.&nbsp; Transitive properties of Alternate universes say that here… Landry goes absolutely berserk.&nbsp; Records for HRs and RBIs fall.&nbsp; The Tigers crush the Cinderella story; and that bitter taste never really leaves the Wild Wings dugout. Those five players go into Season 8 with their Chained Violence, but remember… Jaylen restructured their Debt in S8.&nbsp; Incineration gave way to Feedback! &nbsp; Mexico City becomes a veritable revolving door as players are passed around the league.&nbsp; It’s barely even noticed when one of the most famous Feedbackers of all time, NaN, comes through.&nbsp; After all… it’s Feedback City.</p>
+
+
+
+<p>The Tigers postseason rampage comes to its inevitable conclusion.&nbsp; If the Lovers couldn’t stop the Wild Wings in our universe, they have no chance against the Landry led Tigers.&nbsp; Your Season 7 Alternate universe champions, the Hades Tigers do the unthinkable: they Ascend.&nbsp; Up in Blaseball2, instead of the Crabs, we find a caged Tiger behind those gates.&nbsp; And no disrespect to our universe’s ascended Crabs, but this is a very different team.&nbsp; There will be no 1-98 Tigers in Blaseball2.&nbsp; Landry is too powerful, the Tigers are now powered by flames and Violence.&nbsp; And that Violence is perfect to be used by a God looking to teach us some Discipline. At the end of Season 9, after the Shoe Thieves miraculously deny the Crabs, they are met and defeated by&nbsp;… THE SHELLED ONE’S TIGERS.</p>
+
+
+
+<p>The League holds its collective breath throughout Season 10.&nbsp; And finally, just like they were denied the Ascension by the Tigers, the Season 10 Champion Crabs are beaten down by these Tigers in the second Day X.&nbsp; But just like they arrived in our universe, A NEW CHALLENGER APPEARS.&nbsp; The HALL STARS save the day, and who is leading the charge, who is the Hero, the starting pitcher for the Hall Stars?</p>
+
+
+
+<p><strong>Mike Townsend</strong> (Knows What He’s Gotta Do).&nbsp;&nbsp;</p>
+
+
+
+<p>Who’s in the 2nd slot in the Hall Stars lineup, fat and powerful on Violence instead of Sippies?</p>
+
+
+
+<p>My best friend, <strong>Richmond Harrison</strong>.</p>
+
+
+
+<p>And in the end, who stands victorious, over players and Gods alike, shaping this Alternate universe forever in their image?<br><br>Sorry folks… It’s <strong>Landry Violence</strong>.&nbsp; The site shows nothing but flames.&nbsp; Blaseball has succumbed to the Violence.&nbsp; End of an Era.&nbsp; Of course it was going to end this way… we told you to Never Look Back.&nbsp; Good luck in the next Alternate universe.&nbsp; Blaseball will return.</p>
+<p>The post <a rel="nofollow" href="/2022/06/09/alternates-look-back-in-violence/">ALTERNATES: LOOK BACK (IN VIOLENCE)</a> appeared first on <a rel="nofollow" href="/">Blaseball News Network</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/06/09/alternates-look-back-in-violence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2599</post-id>	</item>
+	</channel>
+</rss>

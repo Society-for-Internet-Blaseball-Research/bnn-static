@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Vibing Among Sharks: Hawai&#8217;i Fridays Recap Season 15	</title>
+	<atom:link href="/2021/04/16/vibing-among-sharks-hawaii-fridays-recap-season-15/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/04/16/vibing-among-sharks-hawaii-fridays-recap-season-15/</link>
+	<description>HARD HITTING BLASEBALL NEWS</description>
+	<lastBuildDate>Fri, 16 Apr 2021 14:36:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+</channel>
+</rss>
